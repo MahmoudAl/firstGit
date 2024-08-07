@@ -13,7 +13,7 @@ int main() {
     } else if (avg < 0.8) {
         cout << "The average is AVERAGE :)";
     } else {
-        cout << "The average is creepy good :)";
+        cout << "The average is creepy high :)";
     }
     return 0;
 }
